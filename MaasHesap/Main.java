@@ -3,7 +3,8 @@ package MaasHesap;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Employee emp = new Employee("Fatih", 2000, 45, 1985);
+		emp.print();
 
 	}
 
